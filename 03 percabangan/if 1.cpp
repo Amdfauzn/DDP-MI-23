@@ -3,11 +3,11 @@
 using namespace std;
 
 int main (){
-int bilangan bulat;
+int bilangan bulat ;
 
-cin >> bilangan bulat ;
+cin >>bilangan bulat ;
 
-if (bilangan bulat == 50){
+if bilangan bulat == 50{
 cout << "setengah" << endl;
 }
 
